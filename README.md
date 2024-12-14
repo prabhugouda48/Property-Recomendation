@@ -15,8 +15,10 @@ User-Friendly Interface
 3.Intuitive design ensuring easy navigation for users.
 Responsive interface optimized for both desktop and mobile platforms.
 
-#Usage Instructions
+# Usage Instructions
 1.Open the application and create an account or log in.
 2.Set preferences for your ideal property (e.g., location, budget).
 3.Explore recommended properties in AR mode or list view.
 4.Save favorite properties or schedule visits.
+# for Demo visit this.
+https://drive.google.com/file/d/1r_sd4cd4SN-ngXHO2URjzH6F4_eHUbXT/view?usp=sharing
